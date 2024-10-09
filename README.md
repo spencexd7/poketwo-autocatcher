@@ -6,7 +6,7 @@ Automate catching Pokémon in Poketwo using the help of the P2 Assistant Bot.
 ## **Overview**
 This script is designed to help catch Pokémon automatically in Poketwo by reacting quickly to spawn events. With a properly configured setup, it can greatly enhance your ability to capture Pokémon without needing manual intervention.
 
-> ⚠ **Disclaimer**: Use at your own risk. If your Discord or Poketwo account gets banned, we are not responsible. Make sure to review Poketwo's terms and conditions and use this tool responsibly.
+> ⚠ **Disclaimer**: Use at your own risk. If your Discord or Poketwo account gets banned, we are not responsible.
 
 ## **Setup**
 
