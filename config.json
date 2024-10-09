@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "channels": [
+      "CHANNEL_ID_1",
+      "CHANNEL_ID_2",
+      "CHANNEL_ID_3"
+    ]
+}
