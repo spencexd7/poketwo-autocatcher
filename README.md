@@ -1,6 +1,3 @@
-Here’s an updated version of the documentation with the mention of the P2 Assistant bot:
-
----
 
 # **Poketwo Autocatcher**
 
