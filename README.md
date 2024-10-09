@@ -1,12 +1,16 @@
+Here’s an updated version of the documentation with the mention of the P2 Assistant bot:
+
+---
 
 # **Poketwo Autocatcher**
 
-Automate catching Pokémon in Poketwo using the help of the P2 Assistant Bot.
+Automate catching Pokémon in Poketwo using the help of the [P2 Assistant Bot](https://discord.com/oauth2/authorize?client_id=854233015475109888).
 
 ## **Overview**
-This script is designed to help catch Pokémon automatically in Poketwo by reacting quickly to spawn events. With a properly configured setup, it can greatly enhance your ability to capture Pokémon without needing manual intervention.
+This script is designed to help catch Pokémon automatically in Poketwo by reacting quickly to spawn events. With a properly configured setup, it can greatly enhance your ability to capture Pokémon without needing manual intervention.  
 
-> ⚠ **Disclaimer**: Use at your own risk. If your Discord or Poketwo account gets banned, we are not responsible.
+> ⚠ **Disclaimer**: Use at your own risk. If your Discord or Poketwo account gets banned, we are not responsible.  
+> **Note:** You should have the [P2 Assistant Bot](https://discord.com/oauth2/authorize?client_id=854233015475109888) added to your server for this script as it detects the name with the help bot's help.
 
 ## **Setup**
 
@@ -23,7 +27,6 @@ This script is designed to help catch Pokémon automatically in Poketwo by react
     "CHANNEL_ID_3"
   ]
 }
-
 ```
 
 ### **Installation**
@@ -40,7 +43,7 @@ python main.py
 ```
 
 ## **Features**
-- Automatically detects and catches Pokémon spawned by Poketwo.
+- Automatically detects names and catches Pokémon spawned by Poketwo with the help of P2 Assistant bot.
 - Configurable to operate in specific channels.
 - Uses a fast response time to ensure maximum catch success.
 
